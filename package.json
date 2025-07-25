@@ -6,12 +6,12 @@
     "whatsapp",
     "baileys"
   ],
-  "homepage": "https://github.com/roms910/roms",
+  "homepage": "",
   "repository": {
-    "url": "https://github.com/roms910/roms"
+    "url": ""
   },
   "license": "MIT",
-  "author": "romss",
+  "author": "lilstar",
   "main": "lib/index.js",
   "files": [
     "lib/*",
